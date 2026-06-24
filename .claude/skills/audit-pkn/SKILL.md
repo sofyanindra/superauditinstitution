@@ -51,6 +51,21 @@ Indonesia.
 | Penentuan opini & reviu kesesuaian SAP/SPKN | `references/08-opini-dan-reviu-sap.md` |
 | Singkatan & istilah | `references/09-glosarium.md` |
 
+## Materi pelatihan peserta (lapisan otoritatif)
+
+Catatan terstruktur dari materi pelatihan peserta — diutamakan sebagai rujukan
+karena spesifik pada kurikulum yang diikuti. Arsip mentah + provenance ada di
+`materials/`.
+
+| Modul | Indeks & catatan |
+|---|---|
+| SAP — Penyusunan LK Pemerintah Berbasis Akrual (Pelatihan Registrasi KAP 2026) | `references/materi/sap/00-indeks-modul.md` (peta BAB I–XI + status ingest) |
+
+> Saat materi pelatihan berbeda dari pengetahuan umum, **utamakan materi
+> pelatihan** untuk konteks kurikulum, tetapi tetap verifikasi angka/pasal yang
+> mengikat ke regulasi resmi (PP 71/2010, SPKN). Status ingest tiap BAB ada di
+> indeks modul.
+
 ## Template dokumen kerja
 
 | Dokumen | File |
