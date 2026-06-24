@@ -18,8 +18,12 @@ direferensikan via Drive ID. Gambar kecil & teks paste diarsipkan di repo.
 | BAB 01 | Teks BAB I + klarifikasi tab | mhtml (~4 MB) | `1G1vhDPVclFnqDYpzezSQCYEtAw6AuisA` | paste manual | `bab-01/sumber-bab-01.md` | `references/materi/sap/bab-01-gambaran-umum-akuntansi-akrual.md` | 2026-06-24 |
 | BAB 01 | 4 tabel (vs swasta: persamaan, perbedaan ×2; komponen LK) | gambar | folder `1kCcpzGlIQ-96Bnz5_TjOHDzN7PHULP6q` | paste di chat | transkripsi di `bab-01/sumber-bab-01.md` | idem | 2026-06-24 |
 | BAB 01 | Sisa gambar (Picture2–4, Screenshot lain) | png/jpg | folder `1kCcpzGlIQ-96Bnz5_TjOHDzN7PHULP6q` | — | belum (di Drive) | — | — |
-| BAB 02 | Halaman BAB 02 | mhtml (~4 MB) | `188rj47vQiMqoC9UPPqfTur0K1ylChkWE` | — | belum | belum | — |
-| BAB 02 | 3 gambar (Screenshot) | png | folder `1Ic0RwRbqLRNbvtgMsKbNreuwNtJaUfr9` | — | belum | belum | — |
+| BAB 02 | Teks BAB II | mhtml (~4 MB) | `188rj47vQiMqoC9UPPqfTur0K1ylChkWE` | paste manual | `bab-02/sumber-bab-02.md` | `references/materi/sap/bab-02-kerangka-konseptual.md` | 2026-06-24 |
+| BAB 02 | Piramida karakteristik kualitatif LK | gambar | folder `1Ic0RwRbqLRNbvtgMsKbNreuwNtJaUfr9` | paste di chat | transkripsi di `bab-02/sumber-bab-02.md` | idem | 2026-06-24 |
+
+> **Catatan kebijakan**: mulai BAB II, ingest **manual paste saja** (penarikan
+> file dari Google Drive dihentikan atas permintaan peserta). Drive ID tetap
+> dicatat sebagai referensi sumber asli.
 
 ## Konvensi
 
