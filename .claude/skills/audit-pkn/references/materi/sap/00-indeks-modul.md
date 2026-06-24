@@ -21,8 +21,8 @@ Legenda: ✅ selesai · 🟡 sebagian (gambar/teks ada di Drive, belum didistila
 | BAB VII | Akuntansi Belanja dan Beban | ✅ | Teks (paste) + Belanja vs Beban + pengakuan + 4 pola jurnal + ringkasan UP/GU/LS + LATIHAN → `bab-07-akuntansi-belanja-beban.md` |
 | BAB VIII | Akuntansi Aset | ✅ | Teks (paste) + aset lancar/nonlancar/tetap + penyisihan/penyusutan/kapitalisasi/KDP/TGR + 2 gambar jurnal + LATIHAN → `bab-08-akuntansi-aset.md` |
 | BAB IX | Akuntansi Kewajiban | ✅ | Teks (paste) + kewajiban jk pendek (PFK, utang belanja, bunga) & jk panjang (refinancing/covenant) + jurnal PPKD + LATIHAN → `bab-09-akuntansi-kewajiban.md` |
-| BAB X | Laporan Keuangan Konsolidasian | ⬜ | |
-| BAB XI | Kebijakan Akuntansi, Perubahan Kebijakan, Kesalahan, Perubahan Estimasi, & Operasi yang Dihentikan | ⬜ | |
+| BAB X | Laporan Keuangan Konsolidasian | ⬜➖ | **Tidak ada** dalam materi peserta — dilewati (konsep konsolidasi tercakup di BAB V: RK-PPKD/RK-SKPD) |
+| BAB XI | Kebijakan Akuntansi, Perubahan Kebijakan, Kesalahan, Perubahan Estimasi, & Operasi yang Dihentikan | ✅ | Teks (paste) PSAP 10 + koreksi sebelum/sesudah otorisasi (via Ekuitas) + retroaktif/prospektif → `bab-11-kebijakan-koreksi-estimasi.md` |
 
 ## Ringkasan cakupan tiap BAB (dari Struktur Modul)
 
