@@ -25,6 +25,9 @@ direferensikan via Drive ID. Gambar kecil & teks paste diarsipkan di repo.
 | BAB 03 | 20+ format LK (LRA/LP-SAL/Neraca/LO/LPE/LAK; Pusat & Daerah) | gambar | — | paste di chat | transkripsi terstruktur di `bab-03/sumber-bab-03.md` | idem | 2026-06-24 |
 | BAB 03 | Diagram hubungan antar laporan + formula konversi LRA→LO | gambar+teks | — | paste di chat | idem | idem | 2026-06-24 |
 
+| BAB 04 | Teks BAB IV (BAS pusat & daerah) | mhtml | — | paste manual (multi-batch) | `bab-04/sumber-bab-04.md` | `references/materi/sap/bab-04-bagan-akun-standar.md` | 2026-06-24 |
+| BAB 04 | Tabel banding Permendagri 64↔90 (Neraca/LRA/LO) + struktur 6 level + contoh kode akun | gambar | — | paste di chat | transkripsi di `bab-04/sumber-bab-04.md` | idem | 2026-06-24 |
+
 > **Catatan kebijakan**: mulai BAB II, ingest **manual paste saja** (penarikan
 > file dari Google Drive dihentikan atas permintaan peserta). Drive ID tetap
 > dicatat sebagai referensi sumber asli bila ada.
