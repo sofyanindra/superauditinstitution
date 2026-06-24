@@ -14,7 +14,7 @@ Legenda: ✅ selesai · 🟡 sebagian (gambar/teks ada di Drive, belum didistila
 | 00 | PENDAHULUAN | ✅ | Teks (paste) + diagram Peta Pelatihan |
 | BAB I | Gambaran Umum Akuntansi Pemerintahan Berbasis Akrual | ✅ | Teks (paste) + 4 tabel gambar + klarifikasi tab → `bab-01-gambaran-umum-akuntansi-akrual.md` |
 | BAB II | Kerangka Konseptual Penyusunan LK Pemerintah Berbasis Akrual | ✅ | Teks (paste) + piramida karakteristik kualitatif → `bab-02-kerangka-konseptual.md` |
-| BAB III | Penyajian Laporan Keuangan | ⬜ | |
+| BAB III | Penyajian Laporan Keuangan | ✅ | Teks (paste) + 20+ format LK + diagram artikulasi & formula konversi → `bab-03-penyajian-laporan-keuangan.md` |
 | BAB IV | Bagan Akun Standar (BAS) | ⬜ | |
 | BAB V | Siklus Akuntansi Pemerintah | ⬜ | |
 | BAB VI | Akuntansi Pendapatan | ⬜ | |

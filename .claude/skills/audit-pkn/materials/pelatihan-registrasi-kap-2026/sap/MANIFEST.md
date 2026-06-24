@@ -21,9 +21,15 @@ direferensikan via Drive ID. Gambar kecil & teks paste diarsipkan di repo.
 | BAB 02 | Teks BAB II | mhtml (~4 MB) | `188rj47vQiMqoC9UPPqfTur0K1ylChkWE` | paste manual | `bab-02/sumber-bab-02.md` | `references/materi/sap/bab-02-kerangka-konseptual.md` | 2026-06-24 |
 | BAB 02 | Piramida karakteristik kualitatif LK | gambar | folder `1Ic0RwRbqLRNbvtgMsKbNreuwNtJaUfr9` | paste di chat | transkripsi di `bab-02/sumber-bab-02.md` | idem | 2026-06-24 |
 
+| BAB 03 | Teks BAB III (narasi 7 laporan) | mhtml | — | paste manual (multi-batch) | `bab-03/sumber-bab-03.md` | `references/materi/sap/bab-03-penyajian-laporan-keuangan.md` | 2026-06-24 |
+| BAB 03 | 20+ format LK (LRA/LP-SAL/Neraca/LO/LPE/LAK; Pusat & Daerah) | gambar | — | paste di chat | transkripsi terstruktur di `bab-03/sumber-bab-03.md` | idem | 2026-06-24 |
+| BAB 03 | Diagram hubungan antar laporan + formula konversi LRA→LO | gambar+teks | — | paste di chat | idem | idem | 2026-06-24 |
+
 > **Catatan kebijakan**: mulai BAB II, ingest **manual paste saja** (penarikan
 > file dari Google Drive dihentikan atas permintaan peserta). Drive ID tetap
-> dicatat sebagai referensi sumber asli.
+> dicatat sebagai referensi sumber asli bila ada.
+> Format LK BAB III bervolume besar (placeholder `xxx`) → ditranskripsi
+> **terstruktur** (hierarki akun + pembeda Pusat/Daerah), bukan baris-per-baris.
 
 ## Konvensi
 
