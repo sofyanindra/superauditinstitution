@@ -28,6 +28,9 @@ direferensikan via Drive ID. Gambar kecil & teks paste diarsipkan di repo.
 | BAB 04 | Teks BAB IV (BAS pusat & daerah) | mhtml | — | paste manual (multi-batch) | `bab-04/sumber-bab-04.md` | `references/materi/sap/bab-04-bagan-akun-standar.md` | 2026-06-24 |
 | BAB 04 | Tabel banding Permendagri 64↔90 (Neraca/LRA/LO) + struktur 6 level + contoh kode akun | gambar | — | paste di chat | transkripsi di `bab-04/sumber-bab-04.md` | idem | 2026-06-24 |
 
+| BAB 05 | Teks BAB V (SAKTI/SIPD, siklus akuntansi 8 langkah) | mhtml | — | paste manual (multi-batch) | `bab-05/sumber-bab-05.md` | `references/materi/sap/bab-05-siklus-akuntansi.md` | 2026-06-24 |
+| BAB 05 | Gambar (diagram siklus, jurnal ledger akrual/kas, posting, neraca saldo, worked example Dinas Kesehatan) | gambar | — | paste di chat | transkripsi di `bab-05/sumber-bab-05.md` | idem | 2026-06-24 |
+
 > **Catatan kebijakan**: mulai BAB II, ingest **manual paste saja** (penarikan
 > file dari Google Drive dihentikan atas permintaan peserta). Drive ID tetap
 > dicatat sebagai referensi sumber asli bila ada.
