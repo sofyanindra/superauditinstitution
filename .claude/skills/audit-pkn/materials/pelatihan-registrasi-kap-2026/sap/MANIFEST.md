@@ -31,6 +31,9 @@ direferensikan via Drive ID. Gambar kecil & teks paste diarsipkan di repo.
 | BAB 05 | Teks BAB V (SAKTI/SIPD, siklus akuntansi 8 langkah) | mhtml | — | paste manual (multi-batch) | `bab-05/sumber-bab-05.md` | `references/materi/sap/bab-05-siklus-akuntansi.md` | 2026-06-24 |
 | BAB 05 | Gambar (diagram siklus, jurnal ledger akrual/kas, posting, neraca saldo, worked example Dinas Kesehatan) | gambar | — | paste di chat | transkripsi di `bab-05/sumber-bab-05.md` | idem | 2026-06-24 |
 
+| BAB 06 | Teks BAB VI (Akuntansi Pendapatan: standar LRA/LO, ilustrasi jurnal) | mhtml | — | paste manual | `bab-06/sumber-bab-06.md` | `references/materi/sap/bab-06-akuntansi-pendapatan.md` | 2026-06-24 |
+| BAB 06 | 2 tabel rangkuman jurnal standar pendapatan SKPD & PPKD | gambar | — | paste di chat | transkripsi di `bab-06/sumber-bab-06.md` | idem | 2026-06-24 |
+
 > **Catatan kebijakan**: mulai BAB II, ingest **manual paste saja** (penarikan
 > file dari Google Drive dihentikan atas permintaan peserta). Drive ID tetap
 > dicatat sebagai referensi sumber asli bila ada.
