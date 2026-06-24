@@ -40,6 +40,9 @@ direferensikan via Drive ID. Gambar kecil & teks paste diarsipkan di repo.
 | BAB 08 | Teks BAB VIII (Akuntansi Aset: lancar, nonlancar, aset tetap) | mhtml | — | paste manual | `bab-08/sumber-bab-08.md` | `references/materi/sap/bab-08-akuntansi-aset.md` | 2026-06-24 |
 | BAB 08 | Ringkasan jurnal siklus aset tetap (SKPD/PPKD) + contoh jurnal TGR kehilangan kendaraan | gambar | — | paste di chat | transkripsi di `bab-08/sumber-bab-08.md` | idem | 2026-06-24 |
 
+| BAB 09 | Teks BAB IX (Akuntansi Kewajiban jk pendek & panjang) | mhtml | — | paste manual | `bab-09/sumber-bab-09.md` | `references/materi/sap/bab-09-akuntansi-kewajiban.md` | 2026-06-24 |
+| BAB 09 | 5 gambar jurnal (utang belanja ATK; kewajiban jk panjang PPKD; utang DN bank; bayar bunga SP2D LS) | gambar | — | paste di chat | transkripsi di `bab-09/sumber-bab-09.md` | idem | 2026-06-24 |
+
 > **Catatan kebijakan**: mulai BAB II, ingest **manual paste saja** (penarikan
 > file dari Google Drive dihentikan atas permintaan peserta). Drive ID tetap
 > dicatat sebagai referensi sumber asli bila ada.
