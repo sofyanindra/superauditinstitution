@@ -34,6 +34,9 @@ direferensikan via Drive ID. Gambar kecil & teks paste diarsipkan di repo.
 | BAB 06 | Teks BAB VI (Akuntansi Pendapatan: standar LRA/LO, ilustrasi jurnal) | mhtml | — | paste manual | `bab-06/sumber-bab-06.md` | `references/materi/sap/bab-06-akuntansi-pendapatan.md` | 2026-06-24 |
 | BAB 06 | 2 tabel rangkuman jurnal standar pendapatan SKPD & PPKD | gambar | — | paste di chat | transkripsi di `bab-06/sumber-bab-06.md` | idem | 2026-06-24 |
 
+| BAB 07 | Teks BAB VII (Akuntansi Belanja & Beban) | mhtml | — | paste manual | `bab-07/sumber-bab-07.md` | `references/materi/sap/bab-07-akuntansi-belanja-beban.md` | 2026-06-24 |
+| BAB 07 | Tabel banding Beban vs Belanja + ringkasan jurnal UP/GU/LS (SKPD/PPKD) | gambar | — | paste di chat | transkripsi di `bab-07/sumber-bab-07.md` | idem | 2026-06-24 |
+
 > **Catatan kebijakan**: mulai BAB II, ingest **manual paste saja** (penarikan
 > file dari Google Drive dihentikan atas permintaan peserta). Drive ID tetap
 > dicatat sebagai referensi sumber asli bila ada.

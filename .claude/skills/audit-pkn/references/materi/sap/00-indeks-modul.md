@@ -18,7 +18,7 @@ Legenda: ✅ selesai · 🟡 sebagian (gambar/teks ada di Drive, belum didistila
 | BAB IV | Bagan Akun Standar (BAS) | ✅ | Teks (paste) + struktur 12 segmen pusat + 6 level daerah + banding Permendagri 64↔90 + contoh kode → `bab-04-bagan-akun-standar.md` |
 | BAB V | Siklus Akuntansi Pemerintah | ✅ | Teks (paste) + SAKTI/SIPD + siklus 8 langkah + worked example Dinas Kesehatan → `bab-05-siklus-akuntansi.md` (LATIHAN belum) |
 | BAB VI | Akuntansi Pendapatan | ✅ | Teks (paste) + standar LRA/LO + azas bruto + IPSAP 02 + 4 pola jurnal + rangkuman SKPD/PPKD + LATIHAN → `bab-06-akuntansi-pendapatan.md` |
-| BAB VII | Akuntansi Belanja dan Beban | ⬜ | |
+| BAB VII | Akuntansi Belanja dan Beban | ✅ | Teks (paste) + Belanja vs Beban + pengakuan + 4 pola jurnal + ringkasan UP/GU/LS + LATIHAN → `bab-07-akuntansi-belanja-beban.md` |
 | BAB VIII | Akuntansi Aset | ⬜ | |
 | BAB IX | Akuntansi Kewajiban | ⬜ | |
 | BAB X | Laporan Keuangan Konsolidasian | ⬜ | |
