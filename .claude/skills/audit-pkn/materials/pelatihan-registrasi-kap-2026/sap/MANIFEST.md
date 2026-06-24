@@ -37,6 +37,9 @@ direferensikan via Drive ID. Gambar kecil & teks paste diarsipkan di repo.
 | BAB 07 | Teks BAB VII (Akuntansi Belanja & Beban) | mhtml | — | paste manual | `bab-07/sumber-bab-07.md` | `references/materi/sap/bab-07-akuntansi-belanja-beban.md` | 2026-06-24 |
 | BAB 07 | Tabel banding Beban vs Belanja + ringkasan jurnal UP/GU/LS (SKPD/PPKD) | gambar | — | paste di chat | transkripsi di `bab-07/sumber-bab-07.md` | idem | 2026-06-24 |
 
+| BAB 08 | Teks BAB VIII (Akuntansi Aset: lancar, nonlancar, aset tetap) | mhtml | — | paste manual | `bab-08/sumber-bab-08.md` | `references/materi/sap/bab-08-akuntansi-aset.md` | 2026-06-24 |
+| BAB 08 | Ringkasan jurnal siklus aset tetap (SKPD/PPKD) + contoh jurnal TGR kehilangan kendaraan | gambar | — | paste di chat | transkripsi di `bab-08/sumber-bab-08.md` | idem | 2026-06-24 |
+
 > **Catatan kebijakan**: mulai BAB II, ingest **manual paste saja** (penarikan
 > file dari Google Drive dihentikan atas permintaan peserta). Drive ID tetap
 > dicatat sebagai referensi sumber asli bila ada.

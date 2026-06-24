@@ -19,7 +19,7 @@ Legenda: ✅ selesai · 🟡 sebagian (gambar/teks ada di Drive, belum didistila
 | BAB V | Siklus Akuntansi Pemerintah | ✅ | Teks (paste) + SAKTI/SIPD + siklus 8 langkah + worked example Dinas Kesehatan → `bab-05-siklus-akuntansi.md` (LATIHAN belum) |
 | BAB VI | Akuntansi Pendapatan | ✅ | Teks (paste) + standar LRA/LO + azas bruto + IPSAP 02 + 4 pola jurnal + rangkuman SKPD/PPKD + LATIHAN → `bab-06-akuntansi-pendapatan.md` |
 | BAB VII | Akuntansi Belanja dan Beban | ✅ | Teks (paste) + Belanja vs Beban + pengakuan + 4 pola jurnal + ringkasan UP/GU/LS + LATIHAN → `bab-07-akuntansi-belanja-beban.md` |
-| BAB VIII | Akuntansi Aset | ⬜ | |
+| BAB VIII | Akuntansi Aset | ✅ | Teks (paste) + aset lancar/nonlancar/tetap + penyisihan/penyusutan/kapitalisasi/KDP/TGR + 2 gambar jurnal + LATIHAN → `bab-08-akuntansi-aset.md` |
 | BAB IX | Akuntansi Kewajiban | ⬜ | |
 | BAB X | Laporan Keuangan Konsolidasian | ⬜ | |
 | BAB XI | Kebijakan Akuntansi, Perubahan Kebijakan, Kesalahan, Perubahan Estimasi, & Operasi yang Dihentikan | ⬜ | |
