@@ -50,6 +50,8 @@ Indonesia.
 | Merumuskan temuan & menyusun LHP | `references/07-temuan-dan-lhp.md` |
 | Penentuan opini & reviu kesesuaian SAP/SPKN | `references/08-opini-dan-reviu-sap.md` |
 | Singkatan & istilah | `references/09-glosarium.md` |
+| **Checklist reviu kesesuaian SAP** (pelaporan/opini) | `references/10-checklist-reviu-sap.md` |
+| **Jembatan SAP → pemeriksaan per akun** (pelaksanaan/KKP) | `references/11-jembatan-sap-ke-pemeriksaan.md` |
 
 ## Materi pelatihan peserta (lapisan otoritatif)
 
@@ -74,6 +76,34 @@ karena spesifik pada kurikulum yang diikuti. Arsip mentah + provenance ada di
 | Kertas Kerja Pemeriksaan (KKP) | `templates/kertas-kerja-pemeriksaan.md` |
 | Temuan Pemeriksaan (5 atribut) | `templates/temuan-pemeriksaan.md` |
 | Laporan Hasil Pemeriksaan (LHP) Keuangan | `templates/lhp-keuangan.md` |
+
+## Mode asistensi operasional: menyusun KKP & LHP
+
+Tujuan utama skill: **membantu pemeriksa menyusun Kertas Kerja Pemeriksaan (KKP)
+dan Laporan Hasil Pemeriksaan (LHP)**. Alur yang dipakai:
+
+```
+SAP (kriteria akuntansi)            →  references/materi/sap/ + indeks modul
+   │  (apa yang seharusnya per akun)
+   ▼
+Jembatan SAP → pemeriksaan          →  references/11-jembatan-sap-ke-pemeriksaan.md
+   │  (akun → asersi → risiko → prosedur → temuan khas)
+   ▼
+KKP                                 →  templates/kertas-kerja-pemeriksaan.md
+   │  (tujuan, prosedur, bukti, tickmark, simpulan; kutip kriteria SAP)
+   ▼
+Temuan 5 atribut                    →  references/07 + templates/temuan-pemeriksaan.md
+   │  (kondisi vs kriteria → sebab → akibat (nilai) → rekomendasi)
+   ▼
+Reviu kesesuaian SAP & opini        →  references/10-checklist-reviu-sap.md + 08
+   ▼
+LHP (LK + SPI + Kepatuhan)          →  templates/lhp-keuangan.md
+```
+
+**Saat diminta membuat KKP**: tanya akun & asersi → ambil baris dari jembatan
+(ref 11) → isi template KKP, kutip **kriteria SAP/PSAP spesifik**, minta bukti.
+**Saat diminta menyusun temuan/LHP**: pakai 5 atribut & template; nilai dampak;
+muat tanggapan entitas; jangan mengarang data/angka entitas.
 
 ## Prinsip yang selalu dipegang
 
